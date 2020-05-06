@@ -5,5 +5,5 @@
 ## WEBKUL
 
 * [OpenCart](webkul/opencart/README.md)
-  * [index](webkul/opencart/all.md)
+  * [All Products](webkul/opencart/all.md)
 

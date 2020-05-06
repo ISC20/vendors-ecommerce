@@ -1,4 +1,4 @@
-# index
+# All Products
 
 | **Item** | **Description** | **Price** |
 | :--- | :--- | :--- |
