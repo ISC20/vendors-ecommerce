@@ -1,1 +1,2 @@
-# vendors-ecommerce
+# Initial page
+
